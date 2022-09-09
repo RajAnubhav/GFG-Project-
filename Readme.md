@@ -6,3 +6,5 @@ Greeting website :
 		d. add an email section
 		e. make a button to send it to a desired person
 		f. using js send it to the desired email
+		
+<h1>Deadline : 23rd Sept. 2022</h1>
